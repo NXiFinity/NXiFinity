@@ -1,4 +1,5 @@
-NXiFinity - [Coming soon]()
+Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager  
+**CodeName:** [NXiFinity]()
 
 --------------------------------------
 - Cryptographic Content Platform
@@ -9,8 +10,7 @@ NXiFinity - [Coming soon]()
   - Loyalty & Rewards System
   - Cross-Platform Support inc iOS & Android
   
-Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager  
-**CodeName:** [NXiFinity]()
+
 
 <!---
 NXiFinity/NXiFinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
