@@ -4,7 +4,7 @@ NXiFinity - [Coming soon]()
 - Cryptographic Content Platform
   - Enterprise Resource & Relationship Manager
   - Sales Management & Point of Sales
-  - Social Media Management
+  - Social Media Connection & Management
 
 <!---
 NXiFinity/NXiFinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
