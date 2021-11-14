@@ -1,5 +1,7 @@
 Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager  
-**CodeName:** [NXiFinity]()
+This is an **OpenSource** project with commercial licensing requirements
+###### **CodeName:** [NXiFinity]()  
+
 
 --------------------------------------
 - Cryptographic Content Platform
