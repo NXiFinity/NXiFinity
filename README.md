@@ -1,4 +1,6 @@
-- ✨ NXiFinity [Website Coming Soon]()
+NXiFinity - [Coming soon]()
+--------------------------------------
+- Cryptographic Data Platform
 
 <!---
 NXiFinity/NXiFinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
