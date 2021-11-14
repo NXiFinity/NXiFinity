@@ -5,6 +5,7 @@ NXiFinity - [Coming soon]()
   - Enterprise Resource & Relationship Manager
   - Sales Management & Point of Sales
   - Social Media Connection & Management
+  - Ecommerce with Multi-Vendor Support
   - Loyalty & Rewards System
 
 <!---
