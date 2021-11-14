@@ -7,6 +7,10 @@ NXiFinity - [Coming soon]()
   - Social Media Connection & Management
   - Ecommerce with Multi-Vendor Support
   - Loyalty & Rewards System
+  - Cross-Platform Support inc iOS & Android
+  
+Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager  
+**CodeName:** [NXiFinity]()
 
 <!---
 NXiFinity/NXiFinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
