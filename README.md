@@ -5,6 +5,7 @@ NXiFinity - [Coming soon]()
   - Enterprise Resource & Relationship Manager
   - Sales Management & Point of Sales
   - Social Media Connection & Management
+  - Loyalty & Rewards System
 
 <!---
 NXiFinity/NXiFinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
