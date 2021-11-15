@@ -1,17 +1,17 @@
-Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager  
+Welcome to our **Fully Loaded** Enterprise Resource & Relationship Manager
 This is an **OpenSource** project with commercial licensing requirements
-###### **CodeName:** [NXiFinity]()  
+###### **CodeName:** [NXiFinity](https://nxifinity.github.io)
 
 
 --------------------------------------
-- Cryptographic Content Platform
+- Cryptographic Secure Data Platform
   - Enterprise Resource & Relationship Manager
   - Sales Management & Point of Sales
   - Social Media Connection & Management
   - Ecommerce with Multi-Vendor Support
   - Loyalty & Rewards System
   - Cross-Platform Support inc iOS & Android
-  
+
 
 
 <!---
